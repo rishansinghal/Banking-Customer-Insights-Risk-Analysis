@@ -66,10 +66,3 @@ By leveraging **Python (Pandas, Seaborn)** for statistical analysis and **Power 
 ✅ Improved **reporting clarity by 40%** with engineered features  
 ✅ Enhanced **model accuracy by 22%** with statistical tests & profiling  
 ✅ Supported **real-time decision-making** through KPI dashboards  
-
----
-
-## 🤝 Contact
-For queries or collaboration opportunities, feel free to connect:  
-📧 **Your Email**  
-🌐 [LinkedIn](https://www.linkedin.com/in/your-link) | [Portfolio](https://yourportfolio.com)
